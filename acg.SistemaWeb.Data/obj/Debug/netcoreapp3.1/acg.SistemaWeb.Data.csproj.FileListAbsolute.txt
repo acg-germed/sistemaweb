@@ -1,0 +1,8 @@
+C:\ProjetoWeb_2020_Producao\acg.Sistema.Web\acg.SistemaWeb.Data\bin\Debug\netcoreapp3.1\acg.SistemaWeb.Data.deps.json
+C:\ProjetoWeb_2020_Producao\acg.Sistema.Web\acg.SistemaWeb.Data\bin\Debug\netcoreapp3.1\acg.SistemaWeb.Data.dll
+C:\ProjetoWeb_2020_Producao\acg.Sistema.Web\acg.SistemaWeb.Data\bin\Debug\netcoreapp3.1\acg.SistemaWeb.Data.pdb
+C:\ProjetoWeb_2020_Producao\acg.Sistema.Web\acg.SistemaWeb.Data\obj\Debug\netcoreapp3.1\acg.SistemaWeb.Data.csprojAssemblyReference.cache
+C:\ProjetoWeb_2020_Producao\acg.Sistema.Web\acg.SistemaWeb.Data\obj\Debug\netcoreapp3.1\acg.SistemaWeb.Data.AssemblyInfoInputs.cache
+C:\ProjetoWeb_2020_Producao\acg.Sistema.Web\acg.SistemaWeb.Data\obj\Debug\netcoreapp3.1\acg.SistemaWeb.Data.AssemblyInfo.cs
+C:\ProjetoWeb_2020_Producao\acg.Sistema.Web\acg.SistemaWeb.Data\obj\Debug\netcoreapp3.1\acg.SistemaWeb.Data.dll
+C:\ProjetoWeb_2020_Producao\acg.Sistema.Web\acg.SistemaWeb.Data\obj\Debug\netcoreapp3.1\acg.SistemaWeb.Data.pdb

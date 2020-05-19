@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - v2020-2.0.01</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+
+
+</head>
+<body>
+    <header>
+           
+        <div class="container">
+
+            <nav class="desktop">
+                <ul >
+                    <li>Home</li>
+                    <li>Tabela Padrão</li>
+                    <li>Manutenção</li>
+                    <li>Manutenção Técnica</li>
+                    <li>Rotinas Diárias</li>
+                    <li>Faturamento</li>
+                    <li>Acesso</li>
+
+                </ul>
+            </nav>
+
+        </div>
+
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-white bg-dark">
+        <div class="container">
+            &copy; 2020 - ACG - Sistemas e Serviços <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
